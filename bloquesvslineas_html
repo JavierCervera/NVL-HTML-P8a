@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Mi Plantilla html</title>
+	</head>
+	<body>
+	<p align="middle"> Ejemplo de campaña multimedia, Seagram's</p>
+<div style="background-color: yellow">
+<iframe align="middle" width="426" height="240" src="https://www.youtube.com/embed/X28LX20iDt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+</div>
+
+
+<iframe width="426" height="319" src="https://www.youtube.com/embed/rKZvg0397oY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+</p>
+
+<video width="426" controls="autoplay" >
+	<source src="https://youtu.be/rKZvg0397oY" type="video/mp4">
+	</video>
+
+<footer >
+
+	<p>Creado por: Javier Cervera</p>
+	<p>Puedes contactar en:</p>
+	<p><img src="https://i1.wp.com/www.canaljesustv.com/wp-content/uploads/2016/06/twitter-round-logo-png-transparent-background-7.png" width="20">@alhelies</p>
+
+	<p><img src="https://i.blogs.es/8d4aa3/gmail/1366_2000.png" width="20">javier.cervera@gmail.com</p>
+
+	<img src="https://fatimamartinez.es/wp-content/uploads/2019/02/Logo-Linkedin.png" width="20">/CerveragarciaJavier</p>
+</footer>
+
+	</body>
+</html>
